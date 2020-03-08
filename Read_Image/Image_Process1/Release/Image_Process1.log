@@ -1,0 +1,16 @@
+﻿  fonksiyonlar.cpp
+fonksiyonlar.cpp(87): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+fonksiyonlar.cpp(98): warning C4018: '>=': imzalı/imzasız uyuşmazlığı
+fonksiyonlar.cpp(200): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+fonksiyonlar.cpp(215): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+fonksiyonlar.cpp(405): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+fonksiyonlar.cpp(423): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+fonksiyonlar.cpp(429): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+fonksiyonlar.cpp(787): warning C4010: tek satır açıklama satır devam ettirme karakteri içeriyor
+fonksiyonlar.cpp(1094): warning C4010: tek satır açıklama satır devam ettirme karakteri içeriyor
+fonksiyonlar.cpp(1134): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+fonksiyonlar.cpp(1164): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+fonksiyonlar.cpp(1165): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+fonksiyonlar.cpp(1298): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+fonksiyonlar.cpp(1300): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+LINK : fatal error LNK1104: 'C:\Users\OguzhnOzbk\Desktop\Read_Image\Read_Image\Release\Image_Process1.exe' dosyası açılamıyor

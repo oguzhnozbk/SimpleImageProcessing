@@ -1,0 +1,19 @@
+﻿  fonksiyonlar.cpp
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(87): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(98): warning C4018: '>=': imzalı/imzasız uyuşmazlığı
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(200): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(215): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(405): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(423): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(429): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(787): warning C4010: tek satır açıklama satır devam ettirme karakteri içeriyor
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(1094): warning C4010: tek satır açıklama satır devam ettirme karakteri içeriyor
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(1134): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(1164): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(1165): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(1346): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(1348): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(1272): warning C4715: 'GradiantHistogramDegeri': tüm denetim yolları değer döndürmez
+c:\users\oguzhnozbk\desktop\read_image\read_image\image_process1\fonksiyonlar.cpp(1349): warning C4715: 'tanInverse': tüm denetim yolları değer döndürmez
+  Image_Process1.vcxproj -> C:\Users\OguzhnOzbk\Desktop\Read_Image\Read_Image\Debug\Image_Process1.exe
+  Image_Process1.vcxproj -> C:\Users\OguzhnOzbk\Desktop\Read_Image\Read_Image\Debug\Image_Process1.pdb (Partial PDB)
